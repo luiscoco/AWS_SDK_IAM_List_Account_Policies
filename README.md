@@ -1,4 +1,4 @@
-# AWS SDK for .NET 10: Identity Access Mangement (IAM) - List Account Policites
+# AWS SDK for .NET version 4: Identity Access Mangement (IAM) - List Account Policites
 
 For more detailed information abuot this post visit the official web page:
 
