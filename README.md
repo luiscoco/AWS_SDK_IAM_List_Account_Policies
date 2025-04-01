@@ -1,4 +1,4 @@
-# AWS SDK for .NET version 4: Identity Access Mangement (IAM) Samples
+# AWS SDK for .NET version 4: Identity Access Mangement (IAM) - List Account Policies
 
 For more detailed information abuot this post visit the official web page:
 
