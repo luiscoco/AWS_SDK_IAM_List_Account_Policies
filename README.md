@@ -4,6 +4,14 @@ For more detailed information abuot this post visit the official web page:
 
 https://docs.aws.amazon.com/sdk-for-net/v4/developer-guide/csharp_iam_code_examples.html
 
+**IMPORTRANT NOTE**: visit the following sites to get the latest information about AWS SDK for .NET
+
+https://docs.aws.amazon.com/sdk-for-net/v4/developer-guide/csharp_code_examples.html
+
+https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/dotnetv4
+
+https://github.com/aws/aws-sdk-net/
+
 ## 1. Prerrequisites
 
 ### 1.1. Install .NET 10
